@@ -1,1 +1,1 @@
-source for [2λ.com](https://2λ.com)
+Detailed explanation of Lido's roadmap through 2050
